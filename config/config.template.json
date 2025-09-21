@@ -1,0 +1,17 @@
+{
+  "google_drive": {
+    "credentials_path": "credentials.json",
+    "token_path": "token.json",
+    "folder_id": "TU_FOLDER_ID_DE_GOOGLE_DRIVE_AQUI"
+  },
+  "web_search": {
+    "api_key": "TU_CLAVE_DE_API_DE_GOOGLE_SEARCH_AQUI",
+    "search_engine_id": "TU_ID_DE_MOTOR_DE_BUSQUEDA_AQUI"
+  },
+  "nlp": {
+    "model": "en_core_web_sm"
+  },
+  "ui": {
+    "port": 5000
+  }
+}
